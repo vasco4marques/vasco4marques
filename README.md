@@ -2,11 +2,11 @@
 Vasco Marques, 19, :portugal: <br>
 > Some dark things going on
 
-## Socials :globe_with_meridians:
+## :globe_with_meridians: Socials:
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg)](https://www.linkedin.com/in/vascojtmarques/)
 
 
-<h3 align="left">Languages and Tools:</h3>
+## :hammer_and_wrench: Languages and Tools:
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
