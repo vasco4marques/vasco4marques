@@ -1,4 +1,4 @@
-# whoami
+# :technologist: whoami
 Vasco Marques, 19, :portugal: <br>
 > Some dark things going on
 
