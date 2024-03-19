@@ -2,9 +2,6 @@
 Vasco Marques, 20, :portugal: <br>
 > Some dark things going on
 
-
-
-
 ## :globe_with_meridians: Socials:
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg)](https://www.linkedin.com/in/vascojtmarques/)
 
